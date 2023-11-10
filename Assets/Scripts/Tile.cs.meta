@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82cfc71a3886fc04ba9e6f600e5b32fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coveredSprite: {fileID: 21300000, guid: 852d26370e161e745bdbe15b2f586ec2, type: 3}
+  - mineClicked: {fileID: 21300000, guid: d09460750a4b8be4b8925b71380a218b, type: 3}
+  - flagSprite: {fileID: 21300000, guid: e7823fa2190e0fe4ca67def5a197a196, type: 3}
+  - wrongSprite: {fileID: 21300000, guid: cef1b0b8743a3464d86f8a77206440a2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
